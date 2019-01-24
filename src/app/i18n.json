@@ -1,0 +1,254 @@
+{
+  "i18nAboutMe0": {
+    "pl": "Znajdziesz tutaj krótkie podsumowanie moich umiejętności, używanych przeze mnie narzędzi, wybrane projekty, referencje oraz przebieg edukacji i kariery zawodowej.",
+    "en": "You will find here a short summary of my skills, tools used by me, selected projects, references and the course of my education and career."
+  },
+  "i18nAboutMe1": {
+    "pl": "Każdy projekt posiada odnośnik do GitHuba, gdzie znajdziesz szczegółowy opis oraz kod źródłowy.",
+    "en": "Each project has a link to GitHub where you will find a detailed description and source code."
+  },
+  "i18nAboutMe2": {
+    "pl": "W technikum oraz na studiach miałem styczność z Asemblerem, C, C++, MATLAB, JavaScript, HTML, CSS, programowaniem mikrokontrolerów oraz sterowników PLC. Później pracując przez trzy lata jako projektant maszyn i urządzeń w między czasie hobbystycznie programowałem, co szybko przerodziło się z pasji w pracę.",
+    "en": "In technical high school and college I had contact with Assembler, C, C ++, MATLAB, JavaScript, HTML, CSS, programming of microcontrollers and PLC controllers. Later working for three years as a Mechanical Design Engineer I programmed hobbyistically and its quickly turned from passion into work."
+  },
+  "i18nAboutMe3": {
+    "pl": "Obecnie już drugi rok zawodowo używam głównie technologii związanych z językiem Rust (symulacje, AI, game dev), a w wolnych chwilach siedzę w Web devie - technologiach związanych z JavaScript oraz w Javie.",
+    "en": "Currently already up a two year I professionally use mainly technologies related to the Rust programming language (simulations, AI, game dev), and in my free time I dig in Web development - technologies related to JavaScript and Java."
+  },
+  "i18nAboutMe4": {
+    "pl": "Staram się być elastyczny jeśli chodzi o techonologie oraz być na bieżąco z nowinkami w świecie IT.",
+    "en": "I'm trying to be flexible in technologies and keep up with the latest updates from the IT world."
+  },
+  "i18nNavbar0": {
+    "pl": "O mnie",
+    "en": "About me"
+  },
+  "i18nNavbar1": {
+    "pl": "Umiejętności",
+    "en": "Skills"
+  },
+  "i18nNavbar2": {
+    "pl": "Doświadczenie",
+    "en": "Experience"
+  },
+  "i18nNavbar3": {
+    "pl": "Próbki kodu",
+    "en": "Code samples"
+  },
+  "i18nNavbar4": {
+    "pl": "Referencje",
+    "en": "References"
+  },
+  "i18nNavbar5": {
+    "pl": "Kontakt",
+    "en": "Contact"
+  },
+  "i18nSkills0": {
+    "pl": "umiejętności",
+    "en": "skills"
+  },
+  "i18nSkills1": {
+    "pl": "odcień wg. częstotliwości używania",
+    "en": "color according to the frequency of usage"
+  },
+  "i18nSkills2": {
+    "pl": "Bazy danych",
+    "en": "Databases"
+  },
+  "i18nSkills3": {
+    "pl": "Testy",
+    "en": "Tests"
+  },
+  "i18nSkills4": {
+    "pl": "Grafika",
+    "en": "Graphics"
+  },
+  "i18nSkills5": {
+    "pl": "Ulubione narzędzia",
+    "en": "Favorite tools"
+  },
+  "i18nExperience0a": {
+    "pl": "doświadczenie",
+    "en": "experience"
+  },
+  "i18nExperience0b": {
+    "pl": "Suma IT",
+    "en": "Total IT"
+  },
+  "i18nExperience0c": {
+    "pl": "Suma CAD",
+    "en": "Total CAD"
+  },
+  "i18nExperience1a": {
+    "pl": "Od 07.2017",
+    "en": "From 07.2017"
+  },
+  "i18nExperience1b": {
+    "pl": "Rust developer",
+    "en": "Rust developer"
+  },
+  "i18nExperience1c": {
+    "pl": " w Simteract - Rzeszów",
+    "en": " at Simteract - Rzeszów"
+  },
+  "i18nExperience1d": {
+    "pl": "Długoterminowy projekt symulacji rzeczywistego ruchu drogowego oparty na sztucznej inteligencji i prawdziwych mapach.",
+    "en": "Long-term project of real traffic simulator based on artificial intelligence and real maps."
+  },
+  "i18nExperience1f": {
+    "pl": "algorytmy sztucznej inteligencji",
+    "en": "AI algorithms"
+  },
+  "i18nExperience1g": {
+    "pl": "algorytmy do przetwarzania danych geograficznych",
+    "en": "algorithms for geographic data processing"
+  },
+  "i18nExperience1h": {
+    "pl": "grafika 3D czasu rzeczywistego",
+    "en": "realtime 3D graphics"
+  },
+  "i18nExperience1k": {
+    "pl": "głównie język Rust",
+    "en": "mostly Rust language"
+  },
+  "i18nExperience1l": {
+    "pl": "czasami C# (Unity) oraz C",
+    "en": "sometimes C# (Unity) and C"
+  },
+  "i18nExperience2a": {
+    "pl": "Tworzenie poprawek i ulepszeń do różnych projektów webowych.",
+    "en": "Making fixes and improvements for various web projects."
+  },
+  "i18nExperience2c": {
+    "pl": "głównie JavaScript, HTML oraz CSS",
+    "en": "mostly JavaScript, HTML and CSS"
+  },
+  "i18nExperience2d": {
+    "pl": "czasami React oraz Angular",
+    "en": "sometimes React and Angular"
+  },
+  "i18nExperience7": {
+    "pl": "w Red Rooster - Kraków",
+    "en": "at Red Rooster - Kraków"
+  },
+  "i18nExperience8": {
+    "pl": "projektowanie maszyn i urządzeń dla branży Offshore",
+    "en": "designing lifting & measuring equipments for oil industry"
+  },
+  "i18nExperience9": {
+    "pl": "modelowanie 3D w Inventor",
+    "en": "drawing, 3D modeling in Inventor"
+  },
+  "i18nExperience10": {
+    "pl": "obliczenia wytrzymałościowe + MES",
+    "en": "manual strength calculating + FEA"
+  },
+  "i18nExperience11": {
+    "pl": "wizualizacje 3D produktów w Autodesk Showcase i Adobe Photoshop",
+    "en": "making 3D product visualizations in Showcase, Photoshop"
+  },
+  "i18nExperience12": {
+    "pl": "animacje produktów w Adobe Premiere",
+    "en": "making product animation in Premiere"
+  },
+  "i18nExperience13": {
+    "pl": " w T. Wędzony Firma Inż. - Kraków",
+    "en": " at T. Wędzony Firma Inż. - Kraków"
+  },
+  "i18nExperience14": {
+    "pl": "projektowanie maszyn przemysłowych opartych o systemy wizyjne",
+    "en": "designing industrial machines based on optical systems"
+  },
+  "i18nExperience15": {
+    "pl": "modelowanie 3D w SolidWorks",
+    "en": "drawing, 3D modeling in SolidWorks"
+  },
+  "i18nExperience16": {
+    "pl": "obliczenia wytrzymałościowe",
+    "en": "manual strength calculating"
+  },
+  "i18nExperience17": {
+    "pl": "Politechnika Krakowska -",
+    "en": "Cracow University of Technology -"
+  },
+  "i18nExperience18": {
+    "pl": "mgr inż.",
+    "en": "MEng"
+  },
+  "i18nExperience19": {
+    "pl": "kier. Automatyka i robotyka",
+    "en": "major: Automatics and Robotics"
+  },
+  "i18nExperience20": {
+    "pl": "spec. Technologie informacyjne w systemach produkcyjnych",
+    "en": "specialty: Information technologies in production"
+  },
+  "i18nExperience21": {
+    "pl": "Politechnika Rzeszowska -",
+    "en": "Rzeszow University of Technology -"
+  },
+  "i18nExperience22": {
+    "pl": "inż.",
+    "en": "BEng"
+  },
+  "i18nExperience23": {
+    "pl": "kier. Mechatronika",
+    "en": "major: Mechatronics"
+  },
+  "i18nExperience24": {
+    "pl": "spec. Informatyka i robotyka",
+    "en": "specialty: Informatics and Robotics"
+  },
+  "i18nProjects0": {
+    "pl": "próbki kodu",
+    "en": "code samples"
+  },
+  "i18nProjects0a": {
+    "pl": "więcej na moim profilu",
+    "en": "more on my"
+  },
+  "i18nProjects0b": {
+    "pl": "",
+    "en": "profile"
+  },
+  "i18nProjects13": {
+    "pl": "Więcej",
+    "en": "More"
+  },
+  "i18nProjects14": {
+    "pl": "Narzędzia:",
+    "en": "Tools:"
+  },
+  "i18nReferences0": {
+    "pl": "referencje",
+    "en": "references"
+  },
+  "i18nContact0": {
+    "pl": "kontakt",
+    "en": "contact"
+  },
+  "i18nContact1": {
+    "pl": "Nr telefonu",
+    "en": "Phone number"
+  },
+  "i18nContact2": {
+    "pl": "Treśc wiadomości",
+    "en": "Message"
+  },
+  "i18nContact3": {
+    "pl": "Wyślij",
+    "en": "Send"
+  },
+  "i18nCookieWarning0": {
+    "pl": "Strona wykorzystuje pliki cookies oraz podobne technologie m.in. w celach statystycznych.",
+    "en": "This site uses cookies and similar technologies among others for statistical purposes."
+  },
+  "i18nCookieWarning1": {
+    "pl": "Dowiedz się więcej",
+    "en": "More info"
+  },
+  "i18nCookieWarning2": {
+    "pl": "Zrozumiałem",
+    "en": "Got it"
+  }
+}
